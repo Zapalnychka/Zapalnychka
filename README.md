@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <html>
 <body>
 <h1>Hello World</h1>
-![image](https://github.com/user-attachments/assets/f866ceaf-ce69-4f99-b474-9620879a45c0)
+![image](https://github.com/user-attachments/assets/04c07421-da1a-4ab0-bfe0-d9efc4bc7add)
+
 
   
 <p>I'm hosted with GitHub Pages.</p>
