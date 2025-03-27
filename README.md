@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <html>
 <body>
 <h1>Hello World</h1>
-![image](https://github.com/user-attachments/assets/2c107d0c-32a2-4fbf-9f9c-4a8d61bd3949)
+![image](https://github.com/user-attachments/assets/d2cde279-940a-4610-a8f2-b21d09b4c82d)
+
 
 
 
