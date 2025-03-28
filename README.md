@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  ![image](https://github.com/user-attachments/assets/8d7358b8-8d95-4f18-a502-ca1512f70dab)
+  ![image](https://github.com/user-attachments/assets/b46c3824-8696-4c12-9bd5-78ac3fd045db)
 </p>
 
